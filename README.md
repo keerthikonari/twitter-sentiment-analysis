@@ -22,6 +22,6 @@ source:kaggle
 🧠 Algorithm Used
 .Logistic Regression
 
-✅ Output
+✅ Output:
 The model predicts whether the input text is positive, negative, or neutral.
 
