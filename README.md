@@ -2,7 +2,7 @@
 
 ## Description
 This project implements **Sentiment Analysis** using **Machine Learning** and **Natural Language Processing (NLP)** techniques.  
-The model classifies text into three sentiment categories:
+The model classifies text into  two sentiment categories:
 
 - **Positive 🙂**
 - **Negative 🙁**
